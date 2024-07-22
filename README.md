@@ -39,7 +39,7 @@
 
 ### Access and Contributions
 
-* Source Code Repository: 
+* Source Code Repository: https://github.com/tanmayshah23/Library-management-system/tree/main/Library-Management
 * Development is currently ongoing. Feel free to contribute through pull requests after reviewing the contribution guidelines within the repository.
 
 ### Getting Started
