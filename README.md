@@ -39,7 +39,7 @@
 
 ### Access and Contributions
 
-* Source Code Repository: https://github.com/r1a1v1i1/BOOKIFY-ODOO
+* Source Code Repository: 
 * Development is currently ongoing. Feel free to contribute through pull requests after reviewing the contribution guidelines within the repository.
 
 ### Getting Started
